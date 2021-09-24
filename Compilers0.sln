@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compilers0", "Compilers0.csproj", "{A92668B4-0289-45FB-A1BF-3FFF529413B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Debug|x86.ActiveCfg = Debug|x86
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Debug|x86.Build.0 = Debug|x86
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Release|x86.ActiveCfg = Release|x86
+		{A92668B4-0289-45FB-A1BF-3FFF529413B8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D2C95F-8BAA-42A1-AD03-5C170DFA7C6A}
+	EndGlobalSection
+EndGlobal
